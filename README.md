@@ -1,2 +1,1 @@
-# Legobman.github.oi
-My Dev Portfolio
+# su25-portfolio-template
